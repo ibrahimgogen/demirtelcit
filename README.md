@@ -1,1 +1,1 @@
-# DEMİRTEL ÇİT jekyll sitesi
+# www.demirtelcit.com
